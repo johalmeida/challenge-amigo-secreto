@@ -16,7 +16,7 @@ Divirta-se jogando com seus amigos! 🎉
 
 Acesse o jogo clicando no link abaixo:
 
-🔗 Amigo Secreto 
+🔗 Amigo Secreto (https://challenge-amigo-secreto-six-eta.vercel.app/)
 
 🛠 Tecnologias Utilizadas
 
