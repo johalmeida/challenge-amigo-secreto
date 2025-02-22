@@ -4,11 +4,11 @@ Este é um jogo simples de Amigo Secreto, desenvolvido como parte de um projeto 
 
 🚀 Como Funciona
 
-Adicione os nomes dos amigos na lista.
+1)Adicione os nomes dos amigos na lista;
 
-Clique em Adicionar para incluir o nome.
+2)Clique em Adicionar para incluir o nome;
 
-Quando todos os nomes forem adicionados, clique em Sortear Amigo para revelar quem tirou quem.
+3)Quando todos os nomes forem adicionados, clique em Sortear Amigo para revelar quem tirou quem.
 
 Divirta-se jogando com seus amigos! 🎉
 
@@ -22,11 +22,11 @@ Acesse o jogo clicando no link abaixo:
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-HTML 📄
+- HTML 📄
 
-CSS 🎨
+- CSS 🎨
 
-JavaScript ⚡
+- JavaScript ⚡
 
 📌 Contribuição
 
